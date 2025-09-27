@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Hannah Estes",
+    "label": "Ph.D. Student in Computer Science",
+    "email": "hmestes@ncsu.edu",
+    "url": "https://hannahestes.github.io",
+    "location": {
+      "city": "Raleigh",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "hannahestes6",
+        "url": "https://www.linkedin.com/in/hannahestes6"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "North Carolina State University",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2024-08",
+      "endDate": "2029-05",
+      "isExpected": true,
+      "description": "Advisor: Dr. Kathryn T. Stolee, Wolfpack Innovations in Software Engineering Research (WISER) Lab"
+    },
+    {
+      "institution": "North Carolina State University",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08",
+      "endDate": "2026-12",
+      "isExpected": true
+    },
+    {
+      "institution": "North Carolina State University",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2020-08",
+      "endDate": "2024-05",
+      "gpa": "Magna Cum Laude",
+      "courses": [
+        "Minors: Cognitive Science, Global Leadership & Team Decision Making"
+      ],
+      "description": "NCSU College of Engineering Faculty Senior Scholar Nominee, CSC Ambassador"
+    }
+  ],
+  "work": [
+    {
+      "name": "Pearson",
+      "position": "Software Engineering Intern",
+      "url": "",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": [
+        "Consolidated identities and create a seamless ID verification process for in-person and online users",
+        "Developed authentication session transfer capabilities for document verification across multiple devices"
+      ],
+      "location": "Durham, NC"
+    },
+    {
+      "name": "Protiviti",
+      "position": "Technology Security & Privacy Consulting Intern",
+      "url": "",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "",
+      "highlights": [
+        "Developed an interactive mock online order page utilizing Microsoft Power Apps and Power Pages, showcasing the practical application of digital twins and order management solutions for prospective clients",
+        "Automated tracking of deliverables to support the client’s virtualization process"
+      ],
+      "location": "Dallas, TX"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NC State CS Ambassador",
+      "position": "Ambassador",
+      "url": "",
+      "startDate": "2022-08",
+      "endDate": "Present"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Foundations of Software Engineering (FSE) Travel Grant",
+      "date": "June 2025",
+      "awarder": "ACM International Conference on the Foundations of Software Engineering (FSE)",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "An Empirical Study of the Alignment between Software Product Managers and Software Engineers",
+      "publisher": "ACM International Conference on the Foundations of Software Engineering (FSE '26)",
+      "releaseDate": "2026 (Under Review)",
+      "url": "",
+      "authors": ["Hannah Estes", "Satwika Kancharla", "Kathryn T. Stolee"],
+      "summary": "Primary researcher and author."
+    },
+    {
+      "name": "Advancing Software Product Management Education: Insights from an Industry Survey",
+      "publisher": "33rd ACM International Conference on the Foundations of Software Engineering (FSE Companion ’25)",
+      "releaseDate": "2025-06",
+      "url": "https://doi.org/10.1145/3696630.3727256",
+      "authors": ["Hannah Estes", "Katie Hollowell", "John Cheek", "Shiv Patel", "Hanna Reese", "Kathryn T. Stolee"],
+      "summary": "Primary researcher and author. Published and presented."
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Graduate Research Assistant",
+      "description": "Research experience in the WISER Lab, Department of Computer Science.",
+      "highlights": [
+        "Spearheaded a comprehensive research initiative and designed an IRB-approved protocol to define the software product manager (SPM) role, analyzing survey data from 59 SPMs and 63 SWEs across 24+ companies.",
+        "Coordinated a team of five student researchers to author and analyze data.",
+        "Authored and served as the primary researcher for a paper identifying 21 competencies and 10 key values of the SPM role, which was published and presented at the top-tier FSE-SEET international conference.",
+        "Authored and served as the primary researcher for a second research paper, currently under review, which examines the alignment between SPMs and software teams by identifying 14 categories of typical questions and 8 primary challenges in the role.",
+        "Leveraged research findings to inform the curriculum of a new SPM course at NCSU, providing students with a competitive advantage in the workforce."
+      ],
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "entity": "WISER Lab, NCSU"
+    },
+    {
+      "name": "Undergraduate Research Assistant",
+      "description": "Under Dr. Kathryn T. Stolee.",
+      "startDate": "2023-12",
+      "endDate": "2024-08",
+      "entity": "NCSU"
+    },
+    {
+      "name": "CSC 408: Software Product Management",
+      "description": "Teaching Assistant (TA), Instructor: Dr. Kathryn T. Stolee",
+      "startDate": "2024-08",
+      "endDate": "2025-05",
+      "entity": "North Carolina State University"
+    },
+    {
+      "name": "Graduate School... should I go? Is it for me?",
+      "description": "Invited Panelist, NCSU Engineering Your Experience Workshop",
+      "startDate": "2025-02"
+    },
+    {
+      "name": "What is Research?",
+      "description": "Invited Panelist, Fontainebleau High School",
+      "startDate": "2024-12"
+    }
+  ]
+}
