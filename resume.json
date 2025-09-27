@@ -54,10 +54,10 @@
     {
       "name": "Pearson",
       "position": "Software Engineering Intern",
-      "url": "",
+      "url": "https://www.pearson.com", 
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "",
+      "summary": "Internship focusing on identity consolidation and seamless ID verification.", 
       "highlights": [
         "Consolidated identities and create a seamless ID verification process for in-person and online users",
         "Developed authentication session transfer capabilities for document verification across multiple devices"
@@ -67,10 +67,10 @@
     {
       "name": "Protiviti",
       "position": "Technology Security & Privacy Consulting Intern",
-      "url": "",
+      "url": "https://www.protiviti.com",
       "startDate": "2023-06",
       "endDate": "2023-08",
-      "summary": "",
+      "summary": "Consulting internship focused on security and privacy solutions.",
       "highlights": [
         "Developed an interactive mock online order page utilizing Microsoft Power Apps and Power Pages, showcasing the practical application of digital twins and order management solutions for prospective clients",
         "Automated tracking of deliverables to support the client’s virtualization process"
@@ -82,27 +82,27 @@
     {
       "organization": "NC State CS Ambassador",
       "position": "Ambassador",
-      "url": "",
+      "url": "https://www.csc.ncsu.edu", 
       "startDate": "2022-08",
-      "endDate": "Present"
+      "summary": "Represented the Computer Science department and its programs."
     }
   ],
   "awards": [
     {
       "title": "Foundations of Software Engineering (FSE) Travel Grant",
-      "date": "June 2025",
+      "date": "2025-06", 
       "awarder": "ACM International Conference on the Foundations of Software Engineering (FSE)",
-      "summary": ""
+      "summary": "Awarded travel grant for attendance at the FSE conference."
     }
   ],
   "publications": [
     {
       "name": "An Empirical Study of the Alignment between Software Product Managers and Software Engineers",
       "publisher": "ACM International Conference on the Foundations of Software Engineering (FSE '26)",
-      "releaseDate": "2026 (Under Review)",
-      "url": "",
+      "releaseDate": "2026", 
+      "url": "https://fse.acm.org",
       "authors": ["Hannah Estes", "Satwika Kancharla", "Kathryn T. Stolee"],
-      "summary": "Primary researcher and author."
+      "summary": "Primary researcher and author. Currently under review."
     },
     {
       "name": "Advancing Software Product Management Education: Insights from an Industry Survey",
@@ -127,7 +127,6 @@
         "Leveraged research findings to inform the curriculum of a new SPM course at NCSU, providing students with a competitive advantage in the workforce."
       ],
       "startDate": "2024-08",
-      "endDate": "Present",
       "entity": "WISER Lab, NCSU"
     },
     {
